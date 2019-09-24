@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\aescobar\Desktop\2019-09-24-ClassWork\2019-09-24-ClassWork\main.cpp(14,12): warning C4305:  'initializing': truncation from 'int' to 'bool'
+C:\Users\aescobar\Desktop\2019-09-24-ClassWork\2019-09-24-ClassWork\main.cpp(18,12): warning C4305:  'initializing': truncation from 'int' to 'bool'
+  2019-09-24-ClassWork.vcxproj -> C:\Users\aescobar\Desktop\2019-09-24-ClassWork\Debug\2019-09-24-ClassWork.exe
