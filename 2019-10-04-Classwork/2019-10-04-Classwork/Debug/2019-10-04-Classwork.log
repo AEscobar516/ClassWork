@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\aescobar\Desktop\2019-10-04-Classwork\2019-10-04-Classwork\main.cpp(13,95): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\aescobar\Desktop\2019-10-04-Classwork\2019-10-04-Classwork\main.cpp(14,111): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\aescobar\Desktop\2019-10-04-Classwork\2019-10-04-Classwork\main.cpp(34,17): warning C4305:  'initializing': truncation from 'double' to 'float'
+  2019-10-04-Classwork.vcxproj -> C:\Users\aescobar\Desktop\2019-10-04-Classwork\Debug\2019-10-04-Classwork.exe
